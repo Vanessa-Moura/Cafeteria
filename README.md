@@ -10,4 +10,7 @@
 <p>- Layout totalmente responsivo, utilizando técnicas de CSS como media queries.</p>
 <p>- Interatividade implementada com JavaScript, proporcionando uma navegação dinâmica.</p>
 <p>- Código limpo e bem estruturado, facilitando a manutenção e futuras melhorias.</p>
-<img src=>
+<p align="center">
+<img src=https://raw.githubusercontent.com/Vanessa-Moura/Cafeteria/refs/heads/main/imag/Not.png width="500">
+
+<img src=https://raw.githubusercontent.com/Vanessa-Moura/Cafeteria/refs/heads/main/imag/Celular.png height="300">
