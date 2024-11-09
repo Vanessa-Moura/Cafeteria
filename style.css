@@ -162,7 +162,7 @@ main {
 
 .img-home {
     width: 550px;
-    transform: scale(1,25);
+    transform: scale(1, 25);
     animation: balanco 5s linear infinite;
 
 }
@@ -335,24 +335,25 @@ footer {
     main {
         min-height: 550px;
     }
-}
-
-.grid {
-    display: grid;
-    grid-template-columns: 1fr;
-}
-
-.div-text-home {
-    text-align: center;
-}
 
 
-.h1-text-home {
-    font-size: 3.6rem;
-}
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 
-.img-home {
-    width: 400px;
+    .div-text-home {
+        text-align: center;
+    }
+
+
+    .h1-text-home {
+        font-size: 3.6rem;
+    }
+
+    .img-home {
+        width: 350px;
+    }
 }
 
 @media screen and (max-width: 600px) {
