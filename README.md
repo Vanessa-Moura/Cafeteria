@@ -1,4 +1,4 @@
-<h1>Projeto Caféteria responsivo</h1> 
+<h1 align="center">Projeto Caféteria responsivo</h1 > 
 <br>
 
 <h>Desenvolvido pelo <a href=https://rodolfomori/dev>Devclub</h2>
